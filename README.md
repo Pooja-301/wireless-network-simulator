@@ -1,9 +1,7 @@
 # 🛰️ Wireless Network Simulator Dashboard
 
 > **A Web-Based Simulation and Visualization Platform for Wireless Communication Technologies**  
-> B.Tech CSE (Cloud Computing) — 7th Semester Capstone Project  
-> **Submitted to:** Dr. Neha Sharma  
-> **Team Members:** USHA (231302137), ADITYA (231302211), POOJA (231302138), RANURAJ (231302263)
+
 
 ---
 
@@ -94,19 +92,5 @@ Detailed educational insights into 4 primary wireless technologies:
    ```
    Production build will be generated in the `dist` folder.
 
----
 
-## 🌐 Free Deployment Options
 
-- **Vercel**: Import this GitHub repository directly into Vercel. Framework preset will automatically detect Vite.
-- **Netlify**: Connect your GitHub repo on Netlify or drag-and-drop the generated `dist` folder at [app.netlify.com/drop](https://app.netlify.com/drop).
-- **GitHub Pages**: Deploy the `dist` bundle via GitHub Actions.
-
----
-
-## 👥 Authors
-- **Usha** (231302137)
-- **Aditya** (231302211)
-- **Pooja** (231302138)
-- **Ranuraj** (231302263)  
-*Department of Computer Science & Engineering, 7th Semester*
